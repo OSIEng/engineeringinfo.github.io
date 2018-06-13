@@ -1,6 +1,6 @@
 # Culture and Organization
 
-## Evolving Department
+## An Evolving Department
 As part of an agile and focused department, it is important that we frequently review what is working, what is not, and what needs refinement. Below is an enumeration of how we work today, what is working, and some challenges that have been observed in the department over the years.
 
 ### Expanded Portfolio
